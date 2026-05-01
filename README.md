@@ -24,15 +24,15 @@ Dataset obtained from [Kaggle](https://www.kaggle.com)
 ## 📸 Screenshots
 
 ### Dashboard
-![Dashboard](Shopo_Dashboard.png)
+![Dashboard](Shopo%20Dashboard.png)
 *Total sales, average revenue per product, sales by sub-category, discount impact and sales trend over time.*
 
 ### Customers
-![Customers](Shopo_Customers.png)
+![Customers](Shopo%20Customers.png)
 *Top customers by sales frequency, revenue by location and payment method breakdown.*
 
 ### Operations & Shipping
-![Operations & Shipping](Shopo_O___P.png)
+![Operations & Shipping](Shopo%20O%20&%20P.png)
 *Average order quantity, shipping costs by location, products with highest shipping costs and processing speed.*
 
 ---
